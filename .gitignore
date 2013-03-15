@@ -2,3 +2,7 @@
 .appcfg_cookies
 *~
 *.pyc
+*.pac
+*.key
+*.crt
+*.orig
