@@ -1,4 +1,4 @@
-application: wallcocotest3
+application: wallcocotest2
 version: 1
 runtime: python27
 api_version: 1
@@ -6,7 +6,7 @@ threadsafe: true
 
 handlers:
 - url: /fetch\.py
-  script: wsgi_old.app
+  script: wsgi.LegacyHandler.application
   secure: optional
 
 - url: /2
