@@ -4,7 +4,7 @@
 #      Phus Lu        <phus.lu@gmail.com>
 
 __version__ = '3.0.7'
-__password__ = ''
+__password__ = '654321'
 __hostsdeny__ = ()  # __hostsdeny__ = ('.youtube.com', '.youku.com')
 
 import sys
