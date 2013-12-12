@@ -8,3 +8,4 @@
 *.orig
 *.egg
 *.pid
+*.user.ini
